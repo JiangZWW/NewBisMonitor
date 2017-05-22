@@ -4,4 +4,4 @@
 已实现用户认证，服务器搜索，数据动态刷新功能。
 
 效果展示：(人数纯属虚构)
-![image](https://github.com/cCloudSky/NewBis/raw/master/screenshots/example.jpg)
+![image](https://github.com/cCloudSky/NewBisMonitor/raw/master/screenshots/example.jpg)
